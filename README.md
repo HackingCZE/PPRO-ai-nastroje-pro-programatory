@@ -4,6 +4,10 @@ Tato cvičení jsou navržena tak, abyste si prakticky vyzkoušeli, jak vám AI 
 
 ---
 
+Jeden z možných řešení najdete v [solution branch](https://github.com/HackingCZE/PPRO-ai-nastroje-pro-programatory/tree/solution) .
+
+---
+
 ## Příklad 1: Vylepšení vzhledu (To-Do List)
 
 **Cíl:** Vylepšit vizuální podobu jednoduché webové aplikace pomocí AI.
